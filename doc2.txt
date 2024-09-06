@@ -1,0 +1,13 @@
+Preguntas:
+
+1. La gestion de las claves privadas y la confianza en la autenticidad de las claves.
+
+2. Es conveniente en situaciones donde ambos extremos d ela comunicacion pueden compartir una clave de manera segura y confidencial.
+
+3. Planificacion: Se evaluan los requisitos de seguridad y planean las caracteristicas de proteccion que se implementaran.
+   Analisis: Se evaluan las amenazas y vulnerabilidades, y busca soluciones.
+   Diseño: Se implementa arquitecturas y estrategias de seguridad.
+   Desarrollo: Se programa los controles de seguridad siguiendo buenas practicas.
+   Pruebas: Se ejectutan y hace pruebas al codigo.
+   Implementacion: Se implementa la solucion diseñada.
+   
